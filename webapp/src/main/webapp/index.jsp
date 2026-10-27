@@ -229,7 +229,7 @@
 
     <!-- Navigation -->
     <nav>
-        <div class="logo">MyPortfolio.</div>
+        <div class="logo">Menghiengsorn.</div>
 
         <ul>
             <li><a href="#home">Home</a></li>
