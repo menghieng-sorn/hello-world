@@ -229,7 +229,7 @@
 
     <!-- Navigation -->
     <nav>
-        <div class="logo">Menghiengsorn.</div>
+        <div class="logo">Menghieng.</div>
         <ul>
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About</a></li>
